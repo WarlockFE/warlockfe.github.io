@@ -23,3 +23,4 @@ I've started a [complete rewrite](https://github.com/sproctor/warlock3) of Warlo
 very similar to Warlock 2. This project is still in its infancy. I expect to have something worth demonstrating in a couple of
 weeks.
 
+You can view [our old posts here](https://sourceforge.net/p/warlock/news/).

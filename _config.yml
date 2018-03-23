@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Warlock is an open source front end for Simutronics games.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://warlockfe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+#twitter_username:
 github_username:  WarlockFe
 
 # Build settings
@@ -29,9 +29,27 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
-  - title: Documentation
-    url: http://github.com/WarlockFe/wiki
+  - title: Docs
+    url: http://github.com/WarlockFe/warlock2/wiki
+  - releases.md
+  - contact.md
+  - screenshots.md
+
+authors:
+  sproctor:
+    name: Sean Proctor
+    email: sproctor@gmail.com
+    web: http://www.seanproctor.com/
+    github: sproctor
+  marshall:
+    name: Marshall
+    email: marshal__NOSPAM__@arcaner.com
+    web: http://www.arcaner.com/
+    github: marshall
+  kassah:
+    name: William Lightning
+    email: kassah@gmail.com
+    github: kassah
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
