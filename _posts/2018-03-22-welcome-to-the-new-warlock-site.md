@@ -5,7 +5,8 @@ author: sproctor
 date:   2018-03-22 10:20:28 -0400
 categories: warlock update
 ---
-I'd like to apologize for how poorly Warlock has been maintained these past 6 or 7 years. We've had a mix of declining user
+I'm starting work on Warlock again. This includes a website redesign (which you are now looking at) and a redesigned client.
+I'd like to apologize for how poorly Warlock has been maintained these past few years. We've had a mix of declining user
 interest and developers with other priorities.
 
 When we are active, we've done a lot of work that never made it into a release. The current state of the Warlock 2 application is
