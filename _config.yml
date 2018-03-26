@@ -37,6 +37,8 @@ header_pages:
     url: https://github.com/WarlockFE/warlock2/releases
   - contact.md
   - screenshots.md
+  - title: GitHub
+    url: https://github.com/WarlockFE/warlock
 
 authors:
   sproctor:
