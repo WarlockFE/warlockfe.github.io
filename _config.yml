@@ -32,13 +32,13 @@ plugins:
 
 header_pages:
   - title: Docs
-    url: http://github.com/WarlockFe/warlock2/wiki
+    url: http://github.com/sproctor/warlock3/wiki
   - title: Releases
-    url: https://github.com/WarlockFE/warlock2/releases
+    url: https://github.com/sproctor/warlock3/releases
   - contact.md
   - screenshots.md
   - title: GitHub
-    url: https://github.com/WarlockFE/warlock3
+    url: https://github.com/sproctor/warlock3
 
 authors:
   sproctor:
