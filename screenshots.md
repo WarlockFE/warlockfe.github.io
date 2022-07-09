@@ -9,4 +9,4 @@ We don't have many modern screenshots currently. If you have any you'd like to s
 
 ### Warlock 2 ###
 
-![Screenshot of Warlock 2 running game](/assets/screenshot-warlock2.png)
+![Screenshot of Warlock 3 running game](/assets/screenshot_simple.png)
