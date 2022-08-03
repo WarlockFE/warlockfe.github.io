@@ -10,9 +10,9 @@ I'd like to apologize for how poorly Warlock has been maintained these past few 
 interest and developers with other priorities.
 
 When we are active, we've done a lot of work that never made it into a release. The current state of the Warlock 2 application is
-much better in the github repository than the last version that was pushed over to SourceForge. You can find some newer builds
-over on [our build site](http://build.warlock.cc/). Those will not be automatically updated because I never figured out how to
-get the updater working when we updated Eclipse versions. Which brings me to the point of all of this...
+much better in the github repository than the last version that was pushed over to SourceForge. ~~You can find some newer builds
+over on our build site. Those will not be automatically updated because I never figured out how to
+get the updater working when we updated Eclipse versions.~~ Which brings me to the point of all of this...
 
 Upgrading versions of Eclipse was extremely painful. It broke the updater and cause strange behavior in the UI. The solution to
 both of those problems was to start re-architecting things. If we stayed with Eclipse, it was going to be a lot of work invested
@@ -25,3 +25,7 @@ very similar to Warlock 2. This project is still in its infancy. I expect to hav
 weeks.
 
 You can view [our old posts here](https://sourceforge.net/p/warlock/news/).
+
+Update:
+
+RIP warlock.cc. Due to lack of use, Marshall has retired warlock.cc. The old builds are now lost to time. They can still be made from our git repository, but they're no longer available for download.
