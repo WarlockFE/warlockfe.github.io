@@ -13,4 +13,4 @@ I've implemented an escape mechanism using %{}. Anything inside the braces will 
 
 All preferences are now stored in a sqlite DB at %HOME/.warlock3/prefs.db. You can copy that file to back it up and overwrite it with the backup if something goes wrong with your settings. I'm planning to implement import/export functionality, but it's not high on my list of priorities.
 
-The biggest improvement in beta02 is the introduction of the dashboard. You can now quickly connect to any previously connected character. beta03 brings the ability to reconnect without restarting the client, and connect through Lich. Lich 5 has a few issues preventing it from working with Warlock, but I have a working fork here: https://github.com/sproctor/lich-5 .
+The biggest improvement in beta02 is the introduction of the dashboard. You can now quickly connect to any previously connected character. beta03 brings the ability to reconnect without restarting the client, and connect through Lich. Lich 5 has a few issues preventing it from working with Warlock, but I have a working fork here: (https://github.com/sproctor/lich-5).
