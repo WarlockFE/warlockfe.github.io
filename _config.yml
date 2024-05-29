@@ -32,24 +32,22 @@ plugins:
 
 header_pages:
   - title: Docs
-    url: http://github.com/sproctor/warlock3/wiki
+    url: https://github.com/sproctor/warlock3/wiki
   - title: Download
     url: https://sproctor.github.io/warlock3/download.html
   - contact.md
   - screenshots.md
-  - title: Source
+  - title: GitHub
     url: https://github.com/sproctor/warlock3
 
 authors:
   sproctor:
     name: Sean Proctor
     email: sproctor@gmail.com
-    web: http://www.seanproctor.com/
+    web: https://www.seanproctor.com/
     github: sproctor
   marshall:
     name: Marshall
-    email: marshal__NOSPAM__@arcaner.com
-    web: http://www.arcaner.com/
     github: marshall
   kassah:
     name: William Lightning
