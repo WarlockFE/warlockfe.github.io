@@ -4,26 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-Please visit us on Slack at [warlockfe.slack.com](https://warlockfe.slack.com/) using the form below.
+Please visit us on Discord using [our Discord invite](https://discord.gg/RrvTffra).
 We're happy to answer any questions or address any problems you might be having.
-
-<div id="CommunityInviter"></div>
-<script>
-  window.CommunityInviterAsyncInit = function () {
-    CommunityInviter.init({
-      app_url:'warlock',
-      team_id:'warlockfe'
-   })
-  };
-
-  (function(d, s, id){
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) {return;}
-    js = d.createElement(s); js.id = id;
-    js.src = "https://communityinviter.com/js/communityinviter.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'Community_Inviter'));
-</script>
 
 ### Authors ###
 
