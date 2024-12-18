@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Please visit us on Discord using [our Discord invite](https://discord.gg/RrvTffra).
+Please visit us on Discord using [our Discord invite](https://discord.gg/tBrDG425qB).
 We're happy to answer any questions or address any problems you might be having.
 
 ### Authors ###
